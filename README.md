@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lacham378
-- 👀 Python|Linux/Unix systems engineer 
-- 👀 Network bridge|data centre support engineer
-- 👀 Cybersecurity|informatrion security & malware detection 
+- 👀 Python | Linux/Unix systems engineer 
+- 👀 Network bridge | data centre support engineer
+- 👀 Cybersecurity | informatrion security & malware detection 
 - 👀 Database Oracle, MySQL, PostgreSQL 
 - 👀 I’m devOps engineer...
 - 🌱 I’m currently active in the job market...
