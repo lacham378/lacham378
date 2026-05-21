@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @lacham378 | lacham378@gmail.com
 - 👀 Python | Linux/Unix | IBM-Blade Systems Integrations Engineer 
-- 👀 Network Bridge NOC | Data Centre Support engineer
+- 👀 Network Bridge NOC | Data Centre Support Engineer
 - 👀 Cybersecurity | Informatrion Security | SOC | Malware 
 - 👀 IoT-Device & Wireless Controllers Support
-- 👀 Telecommunications Systems Engineer
-- SM, EDGE, GPRS, UMTS 3G, HSDPA, HSUPA, 2G/4G/5G/ | GSM/GPRS/3GPP/LTE/EPG/MIMO/PLMN 
+- 👀 Telecommunications Systems Engineer | Digi Router | CISO | FORTIGATE SD-WAN
+- 👀 Cisco Meraki: Wi-Fi 6E | Network Security | Switches | Routers 
+- 👀 SM, EDGE, GPRS, UMTS 3G, HSDPA, HSUPA, 2G/4G/5G/ | GSM/GPRS/3GPP/LTE/EPG/MIMO/PLMN 
 - 👀 Database Oracle, MySQL, PostgreSQL 
 - 👀 I’m a DevOps/Platform Engineer...
 - 👀 Software Engineering & Agentic Programming
