@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @lacham378 | lacham378@gmail.com
+- 👀 Software Engineering | DevOps CI/CD Pipeline
+- 👀 Sytems Integration Engineer | Middleware 
 - 👀 Python | Linux/Unix | IBM-Blade Systems Integrations Engineer 
 - 👀 Network Bridge NOC | Data Centre Support Engineer
 - 👀 Cybersecurity | Informatrion Security | SOC | Malware 
@@ -8,7 +10,7 @@
 - 👀 SM, EDGE, GPRS, UMTS 3G, HSDPA, HSUPA, 2G/4G/5G/ | GSM/GPRS/3GPP/LTE/EPG/MIMO/PLMN 
 - 👀 Database Oracle, MySQL, PostgreSQL 
 - 👀 I’m a DevOps/Platform Engineer...
-- 👀 Software Engineering & Agentic Programming
+- 👀 AI Engineering & Agentic Programming
 - 👀 PLCs/ GE-XA21 Subsystems Support Engineer 
 - 🌱 I’m currently active in the job market...
 - 💞️ I’m looking to collaborate on ...
